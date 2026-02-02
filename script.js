@@ -18,7 +18,7 @@ const projects = [
     description: "Spawn NPCs with pathfinding, combat AI, squad behavior.",
     thumbnail: "https://via.placeholder.com/600x300/FF6B6B/FFFFFF?text=NPC+Factory",
     devNotes: "https://github.com/m-hito/BrawlDevNotes#npc-factory",
-    repoUrl: "https://ouo.io/DEF456",
+    repoUrl: "https://ouo.io/MrWrM2",
     ytVideo: "https://youtube.com/watch?v=npc-tutorial",
     waitTime: 12,
     brawlNotes: "BrawlDev: Use CollectionService for NPC tagging"
@@ -92,3 +92,4 @@ document.getElementById('other-btn').onclick = (e) => {
     </div>
   `;
 };
+
