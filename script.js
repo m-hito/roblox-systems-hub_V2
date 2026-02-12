@@ -30,7 +30,7 @@ const projects = [
     description: "5 combo modular combat system with state handling",
     thumbnail: "https://via.placeholder.com/600x300/FF6B6B/FFFFFF?text=Combat+v1.0",
     devNotes: "https://github.com/m-hito/BrawlDevNotes#combat-system",
-    repoUrl: "https://ouo.io/j1lnPH",
+    repoUrl: "https://icutlink.com/mhito",
     ytVideo: "https://youtube.com/watch?v=combat-tutorial",
     waitTime: 12,
     brawlNotes: "Adding airbone combat in combat system v2"
@@ -116,4 +116,5 @@ document.getElementById('all-btn').onclick = (e) => {
     return false;
   }
 };
+
 
