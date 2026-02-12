@@ -6,7 +6,7 @@ const projects = [
     description: "Give any Npc movement scales upto 100s of npc, make them combat npc urself blueprint is ready.",
     thumbnail: "https://via.placeholder.com/600x300/8B00FF/FFFFFF?text=Movement+v2.1",
     devNotes: "https://github.com/m-hito/BrawlDevNotes#movement-system",
-    repoUrl: "https://ouo.io/pBHIkz",
+    repoUrl: "https://icutlink.com/mhitomovementsystem", 
     ytVideo: "https://youtube.com/shorts/aDU5WHdLi44",
     waitTime: 15,
     brawlNotes: "BrawlDev: Give NPC's tool, use humanoid method to activate it and make them combat npcs"
@@ -18,7 +18,7 @@ const projects = [
     description: "Spawn NPCs with pathfinding, combat AI, squad behavior.",
     thumbnail: "https://via.placeholder.com/600x300/FF6B6B/FFFFFF?text=NPC+Factory",
     devNotes: "https://github.com/m-hito/BrawlDevNotes#npc-factory",
-    repoUrl: "https://ouo.io/MrWrM2",
+    repoUrl: "https://icutlink.com/mhitonpcfactoryv1",
     ytVideo: "https://youtube.com/watch?v=npc-tutorial",
     waitTime: 12,
     brawlNotes: "BrawlDev: Use CollectionService for NPC tagging"
@@ -116,5 +116,6 @@ document.getElementById('all-btn').onclick = (e) => {
     return false;
   }
 };
+
 
 
