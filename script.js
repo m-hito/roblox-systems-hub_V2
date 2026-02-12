@@ -7,7 +7,7 @@ const projects = [
     thumbnail: "https://via.placeholder.com/600x300/8B00FF/FFFFFF?text=Movement+v2.1",
     devNotes: "https://github.com/m-hito/BrawlDevNotes#movement-system",
     repoUrl: "https://ouo.io/pBHIkz",
-    ytVideo: "https://youtube.com/watch?v=movement-tutorial",
+    ytVideo: "https://youtube.com/shorts/aDU5WHdLi44",
     waitTime: 15,
     brawlNotes: "BrawlDev: Give NPC's tool, use humanoid method to activate it and make them combat npcs"
   },
@@ -116,3 +116,4 @@ document.getElementById('all-btn').onclick = (e) => {
     return false;
   }
 };
+
