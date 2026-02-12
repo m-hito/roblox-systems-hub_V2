@@ -22,6 +22,18 @@ const projects = [
     ytVideo: "https://youtube.com/watch?v=npc-tutorial",
     waitTime: 12,
     brawlNotes: "BrawlDev: Use CollectionService for NPC tagging"
+  },
+    {
+    slug: "combat-system",
+    title: "Advanced Roblox Combat system v1.0",
+    displayName: "Combat System", // ✅ Fixed display
+    description: "5 combo modular combat system with state handling",
+    thumbnail: "https://via.placeholder.com/600x300/FF6B6B/FFFFFF?text=NPC+Factory",
+    devNotes: "https://github.com/m-hito/BrawlDevNotes#npc-factory",
+    repoUrl: "https://ouo.io/j1lnPH",
+    ytVideo: "https://youtube.com/watch?v=npc-tutorial",
+    waitTime: 12,
+    brawlNotes: "Adding airbone combat in combat system v2"
   }
 ];
 
@@ -92,5 +104,6 @@ document.getElementById('other-btn').onclick = (e) => {
     </div>
   `;
 };
+
 
 
