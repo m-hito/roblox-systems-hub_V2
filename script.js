@@ -105,6 +105,11 @@ document.getElementById('other-btn').onclick = (e) => {
   `;
 };
 
+// View All → hub (ouo → adUnlocker with all systems)
+const allBtn = document.getElementById('all-btn');
+if (allBtn) {
+  allBtn.href = "https://ouo.io/MrWrM2"; // the one that leads to adUnlocker with all systems
+}
 
 
 
