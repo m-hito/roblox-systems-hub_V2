@@ -6,7 +6,7 @@ const projects = [
     description: "Give any Npc movement scales upto 100s of npc, make them combat npc urself blueprint is ready.",
     thumbnail: "https://via.placeholder.com/600x300/8B00FF/FFFFFF?text=Movement+v2.1",
     devNotes: "https://github.com/m-hito/BrawlDevNotes#movement-system",
-    repoUrl: "https://ouo.io/MrWrM2",
+    repoUrl: "https://ouo.io/pBHIkz",
     ytVideo: "https://youtube.com/watch?v=movement-tutorial",
     waitTime: 15,
     brawlNotes: "BrawlDev: Give NPC's tool, use humanoid method to activate it and make them combat npcs"
@@ -104,6 +104,7 @@ document.getElementById('other-btn').onclick = (e) => {
     </div>
   `;
 };
+
 
 
 
